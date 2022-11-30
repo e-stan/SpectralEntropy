@@ -7,7 +7,7 @@ import numpy as np
 
 setup(
     name="SpectralEntropy",
-    version="1.0",
+    version="1.0.0",
     packages=find_packages(exclude=['*tests*']),
     python_requires='>=3.7',
     url="https://github.com/e-stan/SpectralEntropy",
