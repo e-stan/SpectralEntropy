@@ -7,11 +7,11 @@ from setuptools import find_packages
 
 setup(
     name="SpectralEntropy",
-    version="1.0.1",
+    version="1.0.2",
     packages=find_packages(exclude=['*tests*']),
     python_requires='>=3.7',
     url="https://github.com/e-stan/SpectralEntropy",
-    download_url='https://github.com/e-stan/SpectralEntropy/archive/v1.0.1.tar.gz',
+    download_url='https://github.com/e-stan/SpectralEntropy/archive/v1.0.2.tar.gz',
     license="Apache Software License 2.0",
     install_requires=[
         "numpy>=1.17.4",
